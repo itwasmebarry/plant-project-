@@ -1,0 +1,9 @@
+# Private credentials - never commit
+secrets.h
+
+# Arduino / editor build output
+build/
+*.bin
+*.elf
+.vscode/
+.DS_Store
